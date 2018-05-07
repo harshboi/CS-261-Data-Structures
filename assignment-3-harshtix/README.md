@@ -5,7 +5,7 @@
 
 This assignment is intended to have you start working with binary search trees.  There are several parts to the assignment, each described below.
 
-For this assignment, you are provided with some starter code that defines the structures you'll be working with and prototypes the functions you'll be writing.  *It's important that you don't modify the function prototypes.*  To help grade your assignment, we will use a set of unit tests that assume these functions exist and have the same prototypes that are defined in the starter code.  If you change the prototypes, it will cause the unit tests to break, and your grade for the assignment will likely suffer.  Feel free, however, to write any additional functions you need to accomplish the tasks described below.
+ *It's important that you don't modify the function prototypes.*  To help grade your assignment, we will use a set of unit tests that assume these functions exist and have the same prototypes that are defined in the starter code.  If you change the prototypes, it will cause the unit tests to break, and your grade for the assignment will likely suffer.  Feel free, however, to write any additional functions you need to accomplish the tasks described below.
 
 In this assignment, your work will be limited to the file `bst.c`, where you will implement the functions described below.  In particular, you should write all of your code below the comment in `bst.c` that says "Below are the functions and structures you'll implement in this assignment."  In addition to the descriptions below, there is thorough documentation in `bst.c` describing how each function you'll write should behave.
 
